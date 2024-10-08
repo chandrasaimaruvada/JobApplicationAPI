@@ -1,6 +1,6 @@
 # JobApplicationReview API
 
-The **JobApplication API** is a robust backend service built using Spring Boot, designed to facilitate the management of job applications through essential CRUD operations. This RESTful API enables employers and applicants to interact seamlessly, providing functionalities for job posting and application management.
+The **JobApplicationReview API** is a robust backend service built using Spring Boot, designed to facilitate the management of job applications through essential CRUD operations. This RESTful API enables employers and applicants to interact seamlessly, providing functionalities for job posting and application management.
 
 ## Features
 
